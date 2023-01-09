@@ -1,4 +1,4 @@
-helo visiter
+helo visitor
 
 
 how use app app?
